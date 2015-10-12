@@ -1,0 +1,14 @@
+{"method": "insert", "params": ["poQQ", "relG", {"content": "any  JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["poQ", "relG"]}
+{"method": "insert", "params": ["ZGGDD", "relH", {"content": "valid JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "R"}]}
+{"method": "lookup", "params": ["ZGGDD", "relH"]}
+{"method": "delete", "params": ["ZGGDD", "relH"]}
+{"method": "insert", "params": ["kqqey", "relI", {"content": "any valid JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["kqqey", "relI"]}
+{"method": "insert", "params": ["keykykykeq", "relJ", {"content": "a JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["keykykykeq", "relJ"]}
+{"method": "delete", "params": ["poQQ", "relG"]}
+{"method": "insertOrUpdate", "params": ["kqqey", "relI", {"content": "any", "size": "1KB", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "insertOrUpdate", "params": ["poQQ", "relG", {"content": "JSON", "size": "1KB", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "listIds", "params": []}
+{"method": "shutdown", "params": []}

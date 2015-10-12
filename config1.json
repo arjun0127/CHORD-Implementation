@@ -1,0 +1,20 @@
+{
+    "serverID": "RPCServer",
+    "protocol": "tcp",
+    "ipAddress": "192.168.0.101",
+    "port": 5551,
+	"peeripAddress": "",
+    "peerport": -1,
+    "persistentStorageContainer": {
+        "file": "/usr/tmp/serv1.txt"
+    },
+	"methods": [
+        "lookup",
+        "insert",
+		"insertOrUpdate",
+        "delete",
+        "listKeys",
+        "listIDs",
+        "shutdown"
+    ]
+}

@@ -1,0 +1,15 @@
+{"method": "insert", "params": ["kqweqwe", "relA", {"content": "any valid JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["kqweqwe", "relA"]}
+{"method": "insert", "params": ["keyA", "relB", {"content": "any valid JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "R"}]}
+{"method": "lookup", "params": ["keyA", "relB"]}
+{"method": "insert", "params": ["keykey", "relC", {"content": "any JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["keykey", "relC"]}
+{"method": "insert", "params": ["keykey", "relD", {"content": "any JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["keykey", "relD"]}
+{"method": "insert", "params": ["AQWEE", "relF", {"content": "any valid JSON", "size": "", "created": "", "modified": "", "accessed": "", "permission": "R"}]}
+{"method": "lookup", "params": ["AQWEE", "relF"]}
+{"method": "insert", "params": ["ZQW", "relE", {"content": "any valid JS", "size": "", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "lookup", "params": ["ZQW", "relE"]}
+{"method": "insertOrUpdate", "params": ["AQWEE", "relF", {"content": "any", "size": "1KB", "created": "", "modified": "", "accessed": "", "permission": "RW"}]}
+{"method": "insert", "params": ["keyA", "relB", {"content": "any valid JSON string", "size": "", "created": "", "modified": "", "accessed": "", "permission": "R"}]}
+{"method": "listKeys", "params": []}
